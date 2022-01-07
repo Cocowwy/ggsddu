@@ -1,2 +1,0 @@
-# ggsddu
-my private code
